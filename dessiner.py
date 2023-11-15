@@ -1,4 +1,4 @@
-# Auteurs : Mariam Elwa
+# Auteur : Mariam Elwa
 # date : 15 Novembre 2022
 #
 #Ce programe créé un logiciel d'édition graphique qui permet a l'utilisateur
